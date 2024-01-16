@@ -4,7 +4,7 @@ Buenas
 
 Quiero que os apunteis todos en este fichero 
 
-NOMBRE Y APELLIDO Y VUESTRO GIT
+Alexandro Nazvalskyy - https://github.com/Alexxis291/2SMR2324Pio
 
 
 UN SALUDO 
