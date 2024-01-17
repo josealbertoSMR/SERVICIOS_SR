@@ -17,7 +17,7 @@ NOMBRE: MOHAMED EZZAROILI HERRADI GIT: Picasso 2.0
 Mario Díaz GIT
 JOSE ALBERTO MIGUEL CASTILLO (josealbertoSMR)
 Daniel Garcia daannii1
-
+Alexandro Nazvalskyy - https://github.com/Alexxis291/2SMR2324Pio
 
  iván kutsenko
 UN SALUDO
