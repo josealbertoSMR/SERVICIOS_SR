@@ -19,8 +19,6 @@ JOSE ALBERTO MIGUEL CASTILLO (josealbertoSMR)
 Daniel Garcia daannii1
 
 
-
-UN SALUDO 
-
-
+ iván kutsenko
+UN SALUDO
 
