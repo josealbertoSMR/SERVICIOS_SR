@@ -18,7 +18,8 @@ Mario Díaz GIT
 JOSE ALBERTO MIGUEL CASTILLO (josealbertoSMR)
 Daniel Garcia daannii1
 Alexandro Nazvalskyy - https://github.com/Alexxis291/2SMR2324Pio
+iván kutsenko
 
- iván kutsenko
+
 UN SALUDO
 
